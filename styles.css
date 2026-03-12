@@ -2,6 +2,13 @@ body{
 	background-color: rgb(204, 204, 204);
 }
 
+h1{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+
 li{
 	list-style-type: none;
 }
